@@ -1,3 +1,1 @@
-"Using an open-source toolchain integrated with VSCode to establish the simplest FPGA development and learning environment.
-The installed combination of Icarus Verilog + Verilator + GTKWave perfectly handles simulation, 
-waveform viewing, and functional verification."
+### "Using an open-source toolchain integrated with VSCode to establish the simplest FPGA development and learning environment.The installed combination of Icarus Verilog + Verilator + GTKWave perfectly handles simulation, waveform viewing, and functional verification."
